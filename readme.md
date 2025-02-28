@@ -7,7 +7,7 @@ Investigating process hunks, I coded this small utility to follow/understand seg
 
 ## Usage
 
-dump <address> <size>
+`dump <address> <size>`
 
 
 ## Build
